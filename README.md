@@ -1,3 +1,3 @@
 # vulkan_api  
 
-https://chatgpt.com/c/6a35d510-8b3c-83eb-9116-179e56bc1653
+https://chatgpt.com/share/6a35dda5-1d88-83ed-89a9-ad5ef5e64770
